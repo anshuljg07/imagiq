@@ -65,8 +65,3 @@ ImagiQ is currently maintained by [Stephen Baek](http://www.stephenbaek.com), Jo
 
 # Citation
 ImagiQ is free for an academic use. Please do not forget to cite the following paper.
-
-TODO: Write a paper!
-
-# License
-TODO: Define a license. 
